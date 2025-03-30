@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a **Full-Stack Developer** passionate about building **dynamic**, **high-performance web applications** and solving real-world problems using **React**, **Python**, and **modern Web technologies**. I specialize in developing **scalable**, **efficient**, and **user-friendly solutions** that enhance user experiences and streamline workflows.  
+I'm a **Full-Stack Developer** passionate about building **dynamic**, **high-performance web applications** and solving real-world problems using **modern Web technologies**. I specialize in developing **scalable**, **efficient**, and **user-friendly solutions** that enhance user experiences and streamline workflows.  
   
 With a strong foundation in **Frontend** and **Backend Development**, I focus on crafting **Interactive UIs**, **Robust APIs**, and **Optimized Database Architectures**. My approach to development emphasizes **clean code**, **performance optimization**, and **best practices** to ensure seamless user interactions.  
 
@@ -8,10 +8,11 @@ Beyond coding, I enjoy **exploring emerging technologies**, working on **AI-powe
 
 
 ### ✨ Expertise  
-- 🌐 **Web Development** : Crafting responsive, high-performance applications.  
-- ⚛️ **React.js** : Building dynamic and interactive user interfaces.  
-- 🚀 **Full-Stack Development** : Working across frontend and backend technologies.  
-- 📦 **Deployment & Optimization** : Hosting and optimizing projects for speed and scalability.  
+- 🐍 **Python** : Automating workflows, building robust backends, and data-driven solutions.  
+- ⚛️ **React.js** : Building dynamic and interactive user interfaces.
+- 📦 **Deployment & Optimization** : Hosting and optimizing projects for speed and scalability.
+- 🔌 **IoT & Embedded Systems** :  Integrating hardware with software for intelligent solutions.
+- 💾 **C & Low-Level Programming** – Writing efficient, optimized code for system applications.
 
 
 ### ✨ Featured Projects  
