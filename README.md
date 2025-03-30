@@ -10,7 +10,7 @@ I am a passionate Web Developer with expertise in **React**, **JavaScript**, and
 - 📦 **Deployment & Optimization** – Hosting and optimizing projects for performance.
 
 ## Projects
-- 🤖 [**AVA Chat**](https://ava-ai-nine.vercel.app/) – Developed an AI-powered chatbot to assist users with automated responses.
+- 🤖 [**AVA AI**](https://ava-ai-nine.vercel.app/) – Developed an AI-powered chatbot to assist users with automated responses.
 - 🎭 [**StartItUp Website**](https://start-it-up.rsetiedc.in/) – Built a feature-rich website to streamline registrations and updates of a startup accelerator event held at RSET.
 
 ## Connect With Me
