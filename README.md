@@ -33,7 +33,7 @@
 
 **[Acoustic Localization](https://github.com/aswin-2005/acoustic-localization)** A security-focused project utilizing machine learning techniques for the detection and localization of acoustic signals.
 
-**[AI-Powered PowerShell Agent](https://github.com/aswin-2005/)** A Python-based automation agent that converts natural language prompts into executable PowerShell workflows.
+**[Ask Repo](https://github.com/aswin-2005/AskRepo)** A CLI tool that uses RAG to let you ask questions about any codebase or GitHub repo.
 
 &nbsp;
 
